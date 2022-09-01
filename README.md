@@ -1,4 +1,4 @@
-# Face-Mask-Detection!
+# Face-Mask-Detection
 
 When the video stream starts the camera begins reading the stream and then parses it frame by frame.
 When a single frame is captured it is taken to the detect function where firstly it is checked if a face is visible. 
